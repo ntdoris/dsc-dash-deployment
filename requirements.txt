@@ -1,5 +1,5 @@
 Flask==2.0.3
-dash==2.3
+dash==2.7
 dash-bootstrap-components==1.0
 pandas==1.4
 joblib==0.17.0
